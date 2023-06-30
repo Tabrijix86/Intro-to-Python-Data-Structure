@@ -1,4 +1,4 @@
-# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 'C', "string"]
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 'C', "string"]
 # print(numbers[5])
 # print(numbers)
 # print(len(numbers))
