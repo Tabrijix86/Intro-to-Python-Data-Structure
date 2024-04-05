@@ -15,3 +15,5 @@ print(type(li))
 print(li)
 li.insert(0, 1)
 print(li)
+li1 = [1, 2, 4, "a"]
+print(li1)
