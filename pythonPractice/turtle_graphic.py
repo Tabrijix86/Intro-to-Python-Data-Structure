@@ -7,3 +7,7 @@ tj.forward(150)
 tj.left(90)
 tj.forward(75)
 turtle.exitonclick()
+#
+# import turtle
+# turtle.forward(100)
+# turtle.exitonclick()
